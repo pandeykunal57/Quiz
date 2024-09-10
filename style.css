@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+.col-md-7{
+    margin-top: 150px;
+    background-color: white;
+    padding: 25px;
+}
+
+h1{
+    background-color: antiquewhite;
+    color: gray;
+}
+
+li{
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: 400;
+    list-style: none;
+}
+button{
+    margin-top: 20px;
+}
